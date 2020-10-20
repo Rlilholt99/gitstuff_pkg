@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>gittest_pkg</name>
+  <version>0.0.0</version>
+  <description>The gittest_pkg package</description>
+
+  <maintainer email="rlja20@student.aau.dk">ros</maintainer>
+
+
+  
+  <license>AAU</license>
+
+
+
+  <author email="rlja20@student.aau.dk">Jane Doe</author> 
+
+
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_export_depend>roscpp</build_export_depend>
+  <exec_depend>roscpp</exec_depend>
+
+
+  
+  <export>
+  
+
+  </export>
+</package>
